@@ -1,0 +1,10 @@
+以下のMACアドレスを確認し、EUI-64を用いて64ビットのインターフェースIDに拡張してください
+
+(1)MACアドレス：AAAA.AAAA.AAAA
+　 →A8 AA AA FF FE AA AA AA
+
+(2)9876.5432.10FE
+　 →9A 76 54 FF FE 32 10 FE
+
+(3)FFFF.FFFF.FFFF
+　 →FD FF FF FF FE FF FF FF
